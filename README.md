@@ -3,7 +3,7 @@
 A web-based care management app connecting elderly users with their carers. 
 Built with Flask (backend) and vanilla HTML/JS (frontend), it supports medication reminders, daily health tracking, task scheduling, and emergency alerts.
 
-## 🚀 Features
+## Features
 ·Elder Side
 
 1.Health Log — Record daily mood, heart rate, and blood pressure; export history as CSV
@@ -24,7 +24,7 @@ Built with Flask (backend) and vanilla HTML/JS (frontend), it supports medicatio
 
 4.Reminders — Add and manage medication/task reminders on behalf of the elder
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Backend: Flask (Python)
 - Frontend: HTML + Bootstrap 5
 - Storage: JSON-based persistence
