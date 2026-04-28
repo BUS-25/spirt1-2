@@ -1,4 +1,5 @@
-ElderCare — Elderly Health Monitoring System
+## ElderCare — Elderly Health Monitoring System
+
 A web-based care management app connecting elderly users with their carers. 
 Built with Flask (backend) and vanilla HTML/JS (frontend), it supports medication reminders, daily health tracking, task scheduling, and emergency alerts.
 
